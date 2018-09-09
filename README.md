@@ -1,5 +1,0 @@
-# one
-test
-generater
-
-test
